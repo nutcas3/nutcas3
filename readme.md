@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olingomaxwell1999&label=Profile%20views&color=0e75b6&style=flat" alt="olingomaxwell1999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@olingo_maxwell" target="blank"><img src="https://img.shields.io/twitter/follow/@olingo_maxwell?logo=twitter&style=for-the-badge" alt="@olingo_maxwell" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mauricenyanja" target="blank"><img src="https://img.shields.io/twitter/follow/@olingo_maxwell?logo=twitter&style=for-the-badge" alt="@olingo_maxwell" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python,Ruby and Cloud(AWS||GCP)**
 
