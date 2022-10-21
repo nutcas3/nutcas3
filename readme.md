@@ -35,9 +35,8 @@
 </div>
 
 ### :fire: My Stats :
-<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyash-Mauro&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-<div/>
 
 ### :Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro)](https://github.com/Nyash-Mauro/github-readme-stats)
