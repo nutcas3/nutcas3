@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nyash-Mauro&label=Profile%20views&color=0e75b6&style=flat" alt="olingomaxwell1999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mauricenyanja" target="blank"><img src="https://img.shields.io/twitter/follow/@olingo_maxwell?logo=twitter&style=for-the-badge" alt="@olingo_maxwell" /></a> </p>
+<p align="center"> <a href="https://twitter.com/@mauricenyanja" target="blank"><img src="https://img.shields.io/twitter/follow/@olingo_maxwell?logo=twitter&style=for-the-badge" alt="@olingo_maxwell" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python,Ruby and Cloud(AWS||GCP)**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mauricee423@gmail.com**
 
-- ⚡ Fun fact **I love coding.**
+- ⚡ Fun fact **I love coding and gaming Fifa.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,8 +22,8 @@
 <a href="https://www.instagram.com/ianutcase/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxwellolingo" height="30" width="40" /></a>
 </p>
 
-<h3>Languages and Tools Used:</h3>
-<div>
+<h3 align="center">Languages and Tools Used:</h3>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,8 +35,9 @@
 </div>
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyash-Mauro&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
+<div/>
 
 ### :Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro)](https://github.com/Nyash-Mauro/github-readme-stats)
