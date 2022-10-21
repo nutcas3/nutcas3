@@ -42,5 +42,7 @@
 ### :Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro)](https://github.com/Nyash-Mauro/github-readme-stats)
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyash-Mauro&show_icons=true&locale=en&layout=compact" alt="Nyash-Mauro" /></p> -->
+<!-- <p align="center">
+               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyash-Mauro&show_icons=true&locale=en&layout=compact" alt="Nyash-Mauro" />
+               </p> -->
 
