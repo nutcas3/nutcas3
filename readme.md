@@ -22,7 +22,9 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here!  ![Profile views counter](https://komarev.com/ghpvc/?username=Nyash-Mauro&&style=flat-square)  
+  
+
 I am a craftsman creating unique and high-performing solutions to cater to your need. Being a software developer has allowed me to cater to my needs and craft solutions,
 
 I specialize in creating solutions to the cloud by leveraging the necessary tools the AWS and GCP for any business need. I also love building backend systems to cater to the needs of a business.  
@@ -108,14 +110,7 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 
 <br/>  
 
-  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Nyash-Mauro&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
