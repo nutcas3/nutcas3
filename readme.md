@@ -33,13 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-
+<h2 align="center">
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyash-Mauro&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+ <h2/>
 ### :Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro)](https://github.com/Nyash-Mauro/github-readme-stats)
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyash-Mauro&show_icons=true&locale=en&layout=compact" alt="Nyash-Mauro" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyash-Mauro&show_icons=true&locale=en&layout=compact" alt="Nyash-Mauro" /></p> -->
 
