@@ -108,5 +108,6 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 
 </td></tr></table>  
 
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nyash-Mauro)](https://git.io/streak-stats)
+</div>
