@@ -98,18 +98,22 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nyash-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
+  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Nyash-Mauro)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+ </td><td valign="top" width="33%"> 
+  
 </td></tr></table>  
 
 <div align="center"  width="50%">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nyash-Mauro)](https://git.io/streak-stats)
+Hello I am just DR . nutCase
   
 </div>
