@@ -103,8 +103,6 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 <img src="https://github-readme-stats.vercel.app/api?username=Nyash-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-<img src="https://streak-stats.demolab.com/?user=Nyash-Mauro)](https://git.io/streak-stats" align="left" style="width: 100%" /> 
   
 </td><td valign="top" width="33%">
   
