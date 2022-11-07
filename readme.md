@@ -36,7 +36,7 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [iTalanta/elewa](https://github.com/Nyash-Mauro/iTalanta/elewa)  
+- 🔭 I’m currently working on [iTalanta/elewa](https://github.com/Nyash-Mauro/elewa)  
   
 
 - 🌱 I’m currently learning Software Engineering Angular and Cloud  
