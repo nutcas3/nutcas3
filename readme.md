@@ -22,7 +22,7 @@
 
 
 
-### Glad to see you here!  ![Profile views counter](https://komarev.com/ghpvc/?username=Nyash-Mauro&&style=flat-square)  
+### Glad to see you here!  ![Profile views counter](https://komarev.com/ghpvc/?username=mauricenyanja&&style=flat-square)  
   
 
 I am a craftsman creating unique and high-performing solutions to cater to your need. Being a software developer has allowed me to cater to my needs and craft solutions,
@@ -36,10 +36,10 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [iTalanta/elewa](https://github.com/Nyash-Mauro/elewa)  
+- 🔭 I’m currently working on [iTalanta/elewa](https://github.com/mauricenyanja/elewa)  
   
 
-- 🌱 I’m currently learning Software Engineering Angular and Cloud  
+- 🌱 I’m currently learning Software Engineering | Angular |☁️ Cloud  
   
 
 - ❓ Ask me about anything related to Cloud Aws Angular and some golang  
@@ -97,20 +97,20 @@ I specialize in creating solutions to the cloud by leveraging the necessary tool
 ## Github Stats  
 <table><tr><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nyash-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mauricenyanja&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   
 </td><td valign="top" width="33%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyash-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricenyanja&hide_border=true&layout=compact" align="left" style="width: 100%" />
   
 </td><td valign="top" width="33%">
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Nyash-Mauro)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=mauricenyanja)](https://git.io/streak-stats)
 
 </td></tr></table>  
 
 <div align="center"  width="50%">
   
-Hello I am just DR . nutCase
+Hello I am just just nutCase
   
 </div>
