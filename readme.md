@@ -71,3 +71,5 @@ src="https://img.shields.io/twitch/status/doc_nutcase?logo=twitchsx&style=for-th
 <a href="http://www.github.com/mauricenyanja"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nutcas3&bg_color=000000&color=14b8a6&line=f97316&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nutcas3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutcas3&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/mauricenyanja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutcas3&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
