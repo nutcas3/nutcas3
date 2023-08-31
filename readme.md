@@ -63,16 +63,6 @@ src="https://img.shields.io/twitch/status/doc_nutcase?logo=twitchsx&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mauricenyanja"><img src="https://github-readme-stats.vercel.app/api?username=mauricenyanja&show_icons=true&hide=&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="mauricenyanja's GitHub stats" /></a>
-
-<a href="http://www.github.com/mauricenyanja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricenyanja&stroke=14b8a6&background=000000&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/mauricenyanja"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mauricenyanja&bg_color=000000&color=14b8a6&line=f97316&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mauricenyanja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricenyanja&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<br>
-
 <a href="http://www.github.com/nutcas3"><img src="https://github-readme-stats.vercel.app/api?username=nutcas3&show_icons=true&hide=&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="mauricenyanja's GitHub stats" /></a>
 
 <a href="http://www.github.com/nutcas3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nutcas3&stroke=14b8a6&background=000000&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
