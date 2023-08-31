@@ -8,6 +8,7 @@ I am a craftsman creating unique and high-performing solutions to cater to your 
 * ✉️  You can contact me at [mauricee423@gmail.com](mailto:mauricee423@gmail.com)
 * 🧠  I'm learning Blockchain and android development
 * 🤝  I'm open to collaborating on Open source projects
+* Formally using [mauricenyanja](https://github.com/mauricenyanja)
 
 <a href="https://www.twitter.com/mauricenyanja" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mauricenyanja?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
