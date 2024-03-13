@@ -9,7 +9,6 @@ Meet me at events chatting,hanging out and banter
 * ✉️  You can contact me at [mauricee423@gmail.com](mailto:mauricee423@gmail.com)
 * 🧠  I'm learning Blockchain and android development
 * 🤝  I'm open to collaborating on Open source projects
-* Formally using [mauricenyanja](https://github.com/mauricenyanja)
 
 <a href="https://www.twitter.com/mauricenyanja" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mauricenyanja?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
@@ -28,7 +27,7 @@ src="https://img.shields.io/twitch/status/doc_nutcase?logo=twitchsx&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/doc_nutcase#4043" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nutcas3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mauricenyanja " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maurice-nyanja/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mauricenyanja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/doc_nutcase#4043" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nutcas3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mauricenyanja " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maurice-nyanja/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nut3case" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   
 ### Badges
 
@@ -37,7 +36,5 @@ src="https://img.shields.io/twitch/status/doc_nutcase?logo=twitchsx&style=for-th
 <a href="http://www.github.com/nutcas3"><img src="https://github-readme-stats.vercel.app/api?username=nutcas3&show_icons=true&hide=&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="mauricenyanja's GitHub stats" /></a>
 
 <a href="http://www.github.com/nutcas3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nutcas3&stroke=14b8a6&background=000000&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/nutcas3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nutcas3&bg_color=000000&color=14b8a6&line=f97316&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nutcas3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutcas3&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
