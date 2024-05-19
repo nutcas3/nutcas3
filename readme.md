@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Solana and Blockchain Security**
 
-- 👯 I’m looking to collaborate on **Decentarlised OS**
+- 👯 I’m looking to collaborate on **Blockchain**
 
-- 🤝 I’m looking for help with **Blockchain Security**
+- 🤝 I’m looking @ with **Blockchain Security**
 
 - 💬 Ask me about **Blockchain(Rust),DevOps,and Golang**
 
