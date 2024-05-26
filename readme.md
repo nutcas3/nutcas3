@@ -1,9 +1,9 @@
 <h1 align="center">Holla 👋, I'm nutcase</h1>
 <h3 align="center">Inner child</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nutcas3&label=Profile%20views&color=0e75b6&style=flat" alt="nutcas3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nutcas3&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="nutcas3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutcas3" alt="nutcas3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutcas3&theme=dracula" alt="nutcas3" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain Ideas**
 
