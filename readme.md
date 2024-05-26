@@ -1,9 +1,9 @@
 <h1 align="center">Holla 👋, I'm nutcase</h1>
 <h3 align="center">Inner child</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nutcas3&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="nutcas3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nutcas3&label=Profile%20views&color=0e75b6&style=flat&theme=horizon" alt="nutcas3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutcas3&theme=dracula" alt="nutcas3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutcas3&theme=horizon" alt="nutcas3" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain Ideas**
 
@@ -24,9 +24,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,go,rust,kubernetes,docker,mysql,nginx,postgres,ts,js,angular,react,figma,githubactions&perline=8)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nutcas3&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nutcas3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nutcas3&show_icons=true&locale=en&layout=compact&theme=horizon" alt="nutcas3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nutcas3&show_icons=true&locale=en&theme=dracula" alt="nutcas3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nutcas3&show_icons=true&locale=en&theme=horizon" alt="nutcas3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nutcas3&theme=dracula" alt="nutcas3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nutcas3&theme=horizon" alt="nutcas3" /></p>
 
