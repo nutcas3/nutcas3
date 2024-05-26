@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutcas3" alt="nutcas3" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain - Solana**
+- 🔭 I’m currently working on **Blockchain Ideas**
 
-- 🌱 I’m currently learning **Solana and Blockchain Security**
-
-- 👯 I’m looking to collaborate on **Blockchain**
+- 🌱 I’m currently learning **Life**
 
 - 🤝 I’m looking @ with **Blockchain Security**
 
