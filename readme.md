@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Life**
 
-- 🤝 I’m looking @ with **Blockchain Security**
+- 🤝 I’m looking @ **Blockchain Security**
 
 - 💬 Ask me about **Blockchain(Rust),DevOps,and Golang**
 
