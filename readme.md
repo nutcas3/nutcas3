@@ -1,5 +1,5 @@
 <h1 align="center">Holla 👋, I'm nutcase</h1>
-<h3 align="center">Inner child</h3>
+<h3 align="center">Inner child Onchain Solana is life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nutcas3&label=Profile%20views&color=0e75b6&style=flat&theme=Dracula" alt="nutcas3" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain(Rust),DevOps,and Golang**
 
-- ⚡ Fun fact **I am bullish**
+- ⚡ Fun fact **I am bullish onchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
