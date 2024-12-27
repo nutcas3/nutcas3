@@ -1,5 +1,6 @@
-# 💫 About Me:
-- 🔭 I’m currently working on Blockchain Ideas<br><be> - 🤝 I’m looking @ Blockchain Security**<br><br>- Rust ,DevOps,golang performance tuning<br><br>- ⚡ Fun fact NUTCASE
+# 💫 me
+
+- 🔭 I’m currently working on love life<br><be> - 🤝 I’m looking @ Blockchain Security**<br><br>- Rust ,DevOps,golang performance tuning<br><br>- ⚡ Fun fact NUTCASE
 
 
 # 💻 Tech Stack:
