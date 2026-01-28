@@ -25,7 +25,47 @@
 
 ---
 
-## 📊 GitHub Stats
+## � Featured Projects
+
+### 🏦 DeFi & Real-World Assets
+
+**[🛡️ Veritas RWA Vault](https://github.com/builds-toqyo/veritas)**
+- Leveraged RWA Exposure with ML-Driven Allocation on Mantle Network
+- Complete hackathon submission with synthetic RWA assets and composable lending
+- Features: ML-powered risk prediction, automated keeper bot, tiered KYC verification
+
+**[📊 Pharos Credit Protocol](https://github.com/nutcas3/tokenized-credit)**
+- Tokenized financing protocol for real-world assets (invoices, trade receivables, private loans)
+- Underwriter-set valuations with on-chain capital pools and yield-bearing LP tokens
+- Deployed on Pharos Network with comprehensive credit risk management
+
+**[⚡ Aegis Yield](https://github.com/builds-toqyo/aegis)**
+- Dynamic portfolio vault leveraging AI/ML for yield optimization
+- Multi-protocol rebalancing across Base L2
+- Sophisticated risk management and automated strategy execution
+
+### 🖥️ Infrastructure & Compute
+
+**[🔥 Flux Marketplace](https://github.com/nutcas3/flux)**
+- Decentralized GPU compute infrastructure (DePIN) on Solana
+- Comprehensive marketplace for compute resource sharing
+- Built with Solana/Rust contracts, Go worker nodes, and TypeScript orchestration
+
+**[👑 Sovereign Node](https://github.com/builds-toqyo/sovereign-node)**
+- Production-ready blockchain infrastructure for multi-chain economy
+- Bridges AI agents, real-world assets, and regulatory compliance
+- Supports 10+ blockchains with four production-ready engines
+
+### 🔒 Privacy & Compliance
+
+**[🔐 zk-Verification](https://github.com/nutcas3/zk-verification)**
+- Zero-Knowledge proof-based compliance primitives on Solana/Anchor
+- Privacy-preserving KYC/AML, financial reporting, and GDPR compliance
+- Complete ZK-KYC service with business model and go-to-market strategy
+
+---
+
+## �📊 GitHub Stats
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
