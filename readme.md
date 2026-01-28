@@ -44,6 +44,16 @@
 - Multi-protocol rebalancing across Base L2
 - Sophisticated risk management and automated strategy execution
 
+**[🌪️ Vortex Exchange](https://github.com/nutcas3/vortex)**
+- Production-grade perpetual futures trading platform built in Go
+- High-performance matching engine with comprehensive risk management
+- REST API and advanced trading features for derivatives markets
+
+**[⚙️ Modular Trading System](https://github.com/nutcas3/trading-system)**
+- High-performance trading system built in Rust with three core components
+- Titan (LMAX-style matching engine), Oracle (event sourcing), Sentinel (liquidation engine)
+- Real-time WebSocket price feeds and deterministic replay capabilities
+
 ### 🖥️ Infrastructure & Compute
 
 **[🔥 Flux Marketplace](https://github.com/nutcas3/flux)**
@@ -63,9 +73,28 @@
 - Privacy-preserving KYC/AML, financial reporting, and GDPR compliance
 - Complete ZK-KYC service with business model and go-to-market strategy
 
+**[🛡️ SafeRoute](https://github.com/nutcas3/saferouter)**
+- Zero-knowledge privacy proxy for LLMs - Enterprise-grade middleware
+- Strips PII before sending data to LLMs and restores it on the way back
+- Multi-service architecture with Go proxy, Python NER, and Rust vault
+
+### 🎤 AI & Audio Processing
+
+**[🎙️ AirTen](https://github.com/nutcas3/airten)**
+- Real-time neural network audio processing engine for embedded systems
+- Designed for WebAssembly and low-latency applications
+- Supports Rust, Python, JavaScript (WebAssembly), and C/C++ integration
+
+### 💳 Payments & Fintech
+
+**[🚀 Payment Rails](https://github.com/nutcas3/payment-rails)**
+- Comprehensive payment integration library for African markets
+- Integrates with African payment providers, South African banks, and global processors
+- SDK for all matters payment in Africa with multi-provider support
+
 ---
 
-## �📊 GitHub Stats
+## �� GitHub Stats
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
