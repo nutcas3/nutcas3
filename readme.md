@@ -66,6 +66,13 @@
 - Bridges AI agents, real-world assets, and regulatory compliance
 - Supports 10+ blockchains with four production-ready engines
 
+### 🎨 Creative & Media Applications
+
+**[✨ Aether](https://github.com/builds-toqyo/aether)**
+- DaVinci-type creative application with Adobe fusion capabilities
+- Unified monorepo with Rust (Tauri) backend and Next.js frontend
+- Desktop application leveraging modern web technologies for creative workflows
+
 ### 🔒 Privacy & Compliance
 
 **[🔐 zk-Verification](https://github.com/nutcas3/zk-verification)**
