@@ -4,6 +4,8 @@
 - 🤝 Open to collaborations in Blockchain Security, Rust, Go, and DevOps.
 - ⚡ Fun fact: NUTCASE is not just a name—it's a mindset!
 
+I AM HIREABLE NOW(OPEN TO INTERVIEW AND WORK)
+
 ---
 
 ## 💻 Tech Stack
